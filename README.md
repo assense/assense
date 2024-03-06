@@ -40,7 +40,7 @@ __*Tools*__
 __*Workflow*__
 <div style="display: flex;">
   <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" height="21">
-  <img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" height="21">
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=awesomeWM&color=535D6C&logo=awesomeWM&logoColor=FFFFFF&label=" height="21">
   <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" height="21">
   <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge" height="21">
   <img src="https://img.shields.io/badge/chatGPT-74aa9c?logo=openai&logoColor=white" height="21">
