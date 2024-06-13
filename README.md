@@ -1,7 +1,7 @@
 # Hi there 👋
 [![](https://img.shields.io/badge/-@assense-%23181717?style=flat-square&logo=github)](https://github.com/assense)
-+ SRE | CS | Math 
-+ Backend Dev | ML & AI | Low Level
++ SWE | CS | Math 
++ Backend Dev | Low Level
 
 
 ## 𝗧𝗲𝗰h 𝗦𝘁𝗮𝗰𝗸
