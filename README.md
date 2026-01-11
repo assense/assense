@@ -1,7 +1,7 @@
 # Hi there 👋
 [![](https://img.shields.io/badge/-@assense-%23181717?style=flat-square&logo=github)](https://github.com/assense)
 * Backend Dev
-* Python | C++ | Rust
+* Python | Rust
 
 
 ## 𝗦𝘁𝗮𝗰𝗸
